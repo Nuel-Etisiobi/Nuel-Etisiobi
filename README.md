@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nuel-Etisiobi
-- 👀 I’m interested in learning and building projects in python, learning data analysis and science
+- 👀 I’m interested in learning and building projects in python, learning data analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any freelance jobs
 - 📫 You can reach me via youngharmony44@gmail.com
